@@ -1,0 +1,16 @@
+# Compilados de Java
+bin/
+bin-tests/
+*.class
+
+# Entregas y material del profesorado (no se publican)
+Entrega/
+*.zip
+*.docx
+*.pdf
+
+# Basura del sistema y del editor
+.DS_Store
+.vscode/
+*.log
+logs/
